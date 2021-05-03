@@ -1,2 +1,6 @@
 # hello-world
-Just start
+Hi I learn git using.
+
+It is difficult to me ㅠㅠ
+
+But I can learn it!
